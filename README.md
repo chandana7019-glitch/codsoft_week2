@@ -42,7 +42,7 @@ This project was completed as part of the CodSoft Data Science Internship.
 - Mexico recorded the highest sales and profit among the countries analyzed.
 
 ### Files
-- `Sales_Data_Analysis_Week2.ipynb` – Python analysis notebook
-- `Sales_Data_Analysis_Week2.pbix` – Power BI dashboard
+- `CODSOFT_SalesDataAnalysis_week2.ipynb` – Python analysis notebook
+- `CODSOFT_week2.pbix` – Power BI dashboard
 - `Week2_Sales_Data_Cleaned.csv` – Cleaned dataset
-- `Dashboard_Screenshot.png` – Dashboard preview
+- `datascience_dashboard.png` – Dashboard preview
